@@ -10,6 +10,6 @@ class ContactDetails: Object {
   @objc dynamic var lastName = ""
   @objc dynamic var phoneNumber = ""
   @objc dynamic var address: String? = nil
-  @objc dynamic var index: Int = 0
+  @objc dynamic var index: Double = 0
 }
 
